@@ -28,6 +28,9 @@ A sample Prometheus exporter showing coin price
 make
 ```
 
+![image](https://user-images.githubusercontent.com/108666941/178448423-24aa7e93-5fec-4ef0-bdc7-01d22e4fda7c.png)
+
+
 ### Result Observation
 
 Follow these instructions to view your result.
