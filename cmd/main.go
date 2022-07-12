@@ -27,7 +27,7 @@ func main() {
 	// ========================
 	// Regist handler
 	// ========================
-	log.Infof("Register version collector pricex")
+	log.Infof("Regist version collector pricex")
 	prometheus.Register(version.NewCollector("pricex"))
 	prometheus.Register(handlers.NewPriceCollector())
 
