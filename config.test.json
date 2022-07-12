@@ -1,0 +1,15 @@
+{
+  "coins": [
+    {
+      "id": "pancakeswap-token",
+      "symbol": "cake",
+      "name": "PancakeSwap"
+    },
+    {
+      "id": "dogecoin",
+      "symbol": "doge",
+      "name": "Dogecoin"
+    }
+  ],
+  "currencies": "eur"
+}

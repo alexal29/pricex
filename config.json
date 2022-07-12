@@ -1,0 +1,25 @@
+{
+  "coins": [
+    {
+      "id": "ethereum",
+      "symbol": "eth",
+      "name": "Ethereum"
+    },
+    {
+      "id": "binancecoin",
+      "symbol": "bnb",
+      "name": "BNB"
+    },
+    {
+      "id": "fantom",
+      "symbol": "ftm",
+      "name": "Fantom"
+    },
+    {
+      "id": "usd-coin",
+      "symbol": "usdc",
+      "name": "USD Coin"
+    }
+  ],
+  "currencies": "usd"
+}

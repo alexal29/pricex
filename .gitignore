@@ -1,0 +1,5 @@
+.env
+bin
+.secret
+vendor
+.vscode
